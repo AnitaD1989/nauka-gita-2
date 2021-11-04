@@ -1,9 +1,15 @@
 
-header {
-    text-align: center;
+html {
+    text-align: left;
+    padding-left: 420px;
+    padding-right:500px;
+
 }
 
-h2 {
+.author {
     font-style: italic;
 }
 
+span {
+    font-style: italic;
+}
