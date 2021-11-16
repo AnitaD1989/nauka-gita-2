@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/AnitaD1989/nauka-gita-2#readme",
   "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
     "browser-sync": "^2.27.7",
-    "html-validate": "^6.1.0"
+    "html-validate": "^6.1.2"
   }
 }
